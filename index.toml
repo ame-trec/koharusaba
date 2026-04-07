@@ -1,7 +1,7 @@
 hash-format = "sha256"
 
 [[files]]
-file = "workflows/static.yml"
+file = ".github/workflows/static.yml"
 hash = "b6243bb79a7914a38fe0ca6e6411e4e9e2cf86eb4d8016272ee2b8f75e09ebcb"
 
 [[files]]
