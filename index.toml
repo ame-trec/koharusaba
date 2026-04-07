@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = ".github/workflows/static.yml"
-hash = "b6243bb79a7914a38fe0ca6e6411e4e9e2cf86eb4d8016272ee2b8f75e09ebcb"
-
-[[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "76a7215e67b24c073f93e03d23a8f57d3481b7de7e1ce4dbeae33941146872b6"
 metafile = true
