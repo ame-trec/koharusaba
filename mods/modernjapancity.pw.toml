@@ -1,0 +1,13 @@
+name = "ModernJapanCity"
+filename = "ModernJapanCity-Fabric-1.19.2-1.0.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "f87fc6cd6911133860c23363f659f0f8d8ebe58a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7808703
+project-id = 1114661

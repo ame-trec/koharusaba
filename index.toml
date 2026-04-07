@@ -1,0 +1,150 @@
+hash-format = "sha256"
+
+[[files]]
+file = ".github/workflows/static.yml"
+hash = "b6243bb79a7914a38fe0ca6e6411e4e9e2cf86eb4d8016272ee2b8f75e09ebcb"
+
+[[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "76a7215e67b24c073f93e03d23a8f57d3481b7de7e1ce4dbeae33941146872b6"
+metafile = true
+
+[[files]]
+file = "mods/brrp.pw.toml"
+hash = "580af998e456c47e3b30362dbfc1eea8809c4620649a604e04282b919f5fad60"
+metafile = true
+
+[[files]]
+file = "mods/chat-heads.pw.toml"
+hash = "f2aeec0f1312ff1e45bc4d7f3af6a960460161d9e880c9ddace84348603c1b30"
+metafile = true
+
+[[files]]
+file = "mods/copycats.pw.toml"
+hash = "95cf4b8fd10fe06e941e54eb40f228af42a5b85953596575e87c168c82faf2d5"
+metafile = true
+
+[[files]]
+file = "mods/create-fabric.pw.toml"
+hash = "2766b53aae0852ceab94fa0c32aab753bc7c2480978aa36451b6e14e20b879b0"
+metafile = true
+
+[[files]]
+file = "mods/effortless.pw.toml"
+hash = "45649d9e1f3d45e77a4b775bdead2862ca6747dca915aec10189961c4fccd66d"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api.pw.toml"
+hash = "5c477b0cd218ed14c178205ad498aa7f3eb1ec56444c2e760e0413e8d520c064"
+metafile = true
+
+[[files]]
+file = "mods/geckolib.pw.toml"
+hash = "ec94d9d2e209b8f19eab587ce504108784c80c42a97fcb90734bfd5afbbb89da"
+metafile = true
+
+[[files]]
+file = "mods/indium.pw.toml"
+hash = "f9bc260981100a238f2a2b0ad2f1c42ffb05d9e48f72e43a4d0ad9fcc64a796e"
+metafile = true
+
+[[files]]
+file = "mods/iris.pw.toml"
+hash = "402ce406f23b8de2dd79d79ea42a7fa487e9ba6264bd59e9034da4e5cb548d7a"
+metafile = true
+
+[[files]]
+file = "mods/japanish.pw.toml"
+hash = "9765ac8430456acfc6acd63cf8aa5d41bd7b5baad2cf5f4827af7f8686ae6ec4"
+metafile = true
+
+[[files]]
+file = "mods/jcm.pw.toml"
+hash = "63b58276ace9037dcd92a845bd922815883fe20c8181a6fbe30621aed0755ad0"
+metafile = true
+
+[[files]]
+file = "mods/journeymap.pw.toml"
+hash = "7594ec6e2bd734e8b7c0b21d44254cc3c2dc38f7dc295a6f560c6fc8e202dac8"
+metafile = true
+
+[[files]]
+file = "mods/lithium.pw.toml"
+hash = "f1ba5a88acf118f60ae2a7aa9b86eb5dfdbd18958f1e4856425000e4680cb39e"
+metafile = true
+
+[[files]]
+file = "mods/macaws-windows.pw.toml"
+hash = "35c569f6c8b884a032669a61d341c8838e3a55e97105faa00c18131e92b20eb9"
+metafile = true
+
+[[files]]
+file = "mods/memoryleakfix.pw.toml"
+hash = "ede2f61d6b592f44294fa8790c2f050729c487aa86aba09034f2ef30d45e0e93"
+metafile = true
+
+[[files]]
+file = "mods/minecraft-transit-railway.pw.toml"
+hash = "d3b6b03e05dbf817948a7cad3ef542e587bb05a0831c4384503b6c8994602350"
+metafile = true
+
+[[files]]
+file = "mods/mishang-urban-construction.pw.toml"
+hash = "dc5f439ccf17a2e8d169b86c8354aafceb0ad28c2000401e4026d6589cb0b6e0"
+metafile = true
+
+[[files]]
+file = "mods/modernfix.pw.toml"
+hash = "2c055b7b0fa6104c14e72c7ee19bdcc9edc214f39fb95e2ed7ae10348dd10717"
+metafile = true
+
+[[files]]
+file = "mods/modernjapancity.pw.toml"
+hash = "8756744f9864125a61468094963e5ffc3a59d5a7dc5c3222447c7991c46b2cb4"
+metafile = true
+
+[[files]]
+file = "mods/modmenu.pw.toml"
+hash = "26a6c62dd5e1b6812ffdf82fa05d64513100661704a3b247e7e88f10a8143923"
+metafile = true
+
+[[files]]
+file = "mods/mtr-ante.pw.toml"
+hash = "6eda33ade4832517835497e7648384bd7db88d8a93ca6571f0ae57f676bb3cf8"
+metafile = true
+
+[[files]]
+file = "mods/mtr-east-japan-railway-addon.pw.toml"
+hash = "afaa75fbb9ea9b27519669c3f34a004d0b2324baabcf8122cf6c02cc8877e60d"
+metafile = true
+
+[[files]]
+file = "mods/slideshow-fabric.pw.toml"
+hash = "eb803ab80d55b084df3ea579f10111616821c6a7af47b91934903e6db93c6418"
+metafile = true
+
+[[files]]
+file = "mods/sodium.pw.toml"
+hash = "f7c5f0d1e8711e621222474017e44e2de28d6df83db928f7e93502ea16715330"
+metafile = true
+
+[[files]]
+file = "mods/station-decoration.pw.toml"
+hash = "027ae8ac25dbdb355130303d6d78b4c1b64f650748812ab8839c373fc156fa62"
+metafile = true
+
+[[files]]
+file = "mods/tokyometroaddon.pw.toml"
+hash = "39dd0294654d643688328735c8842ce6d61faeb68a30b3fafbdfb800cbda23fa"
+metafile = true
+
+[[files]]
+file = "mods/trafficcraft.pw.toml"
+hash = "7871a15b24714d46946f1f491137c6b548024182512b870dcf23bb425d62a3c7"
+metafile = true
+
+[[files]]
+file = "mods/world-comment.pw.toml"
+hash = "11335e5e75e6ae6f9fbefffee47cb04826b32526b89573f540e3d005f66e232d"
+metafile = true

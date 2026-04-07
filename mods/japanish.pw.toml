@@ -1,0 +1,13 @@
+name = "Japanish"
+filename = "Japanish-1.19.2-0.9-Fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/NCgMbxGG/versions/fXf63UQa/Japanish-1.19.2-0.9-Fabric.jar"
+hash-format = "sha512"
+hash = "bc155ef9b8c23875d4f935a5ed13a11372e59bc595fff5267060dedeebede466ade09fb30f0edf45b06ad0f3554b154fcd592738437873bc74721497b15871a1"
+
+[update]
+[update.modrinth]
+mod-id = "NCgMbxGG"
+version = "fXf63UQa"

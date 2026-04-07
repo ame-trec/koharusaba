@@ -1,0 +1,13 @@
+name = "Aphrodite's Nemo's Transit Expansion"
+filename = "MTR-ANTE-1.1.0+1.19.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ybOYitTg/versions/8oq8qwW8/MTR-ANTE-1.1.0%2B1.19.2.jar"
+hash-format = "sha512"
+hash = "ddd137710d67d93d5525e628f173b232bda83ff8aa4fc3b54b006b9de6dfe69cf5daa30e7c73f15a828051855091d31eb7e89c777ededc87b36280ef950321c4"
+
+[update]
+[update.modrinth]
+mod-id = "ybOYitTg"
+version = "8oq8qwW8"

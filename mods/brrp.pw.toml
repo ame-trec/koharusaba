@@ -1,0 +1,13 @@
+name = "Better Runtime Resource Pack (BRRP)"
+filename = "brrp-fabric-1.0.1-1.19.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/JnrDtPAE/versions/hlpWCpdb/brrp-fabric-1.0.1-1.19.2.jar"
+hash-format = "sha512"
+hash = "70058284b7cabd617d3bfc79bdb5f84b33a08e6d1aa352b5ccd8a98801d0ca9eababf55519946fdf85cbc97bf5edac6a3ae6ddf604767f924b6920f1f742256a"
+
+[update]
+[update.modrinth]
+mod-id = "JnrDtPAE"
+version = "hlpWCpdb"

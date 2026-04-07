@@ -1,0 +1,13 @@
+name = "TokyoMetroAddon"
+filename = "tokyometroaddon-1.19.2-0.0.1hotfix-beta.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ba439e212b4f7818d4f9a7cd88230f7975da1c7b"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7069698
+project-id = 1359407

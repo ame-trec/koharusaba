@@ -1,0 +1,13 @@
+name = "WorldComment"
+filename = "WorldComment-0.3.2+1.19.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/GNAofCJ3/versions/t1knESR1/WorldComment-0.3.2%2B1.19.2.jar"
+hash-format = "sha512"
+hash = "ab021684c2f003c2800cb3f06fabd240f4b40566caaacee97275d739f619f6dfe704b6d4ea5e0364f9248250bffc080264ea829217a8c5c4e7a8f5608c7fbfd1"
+
+[update]
+[update.modrinth]
+mod-id = "GNAofCJ3"
+version = "t1knESR1"
